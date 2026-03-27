@@ -6,4 +6,4 @@ I'm a data engineer on LinkedIn's jobs marketplace data science team.
 [![Research Gate](https://img.shields.io/badge/Research-Gate-orange?style=flat-square.svg)](https://www.researchgate.net/profile/Patrick-Stetz)
 [![Personal Site](https://img.shields.io/badge/Personal_Site-green?style=flat-square.svg)](https://patrickstetz.com/)
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=pstetz&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pstetz&theme=midnight_purple)](https://github.com/pstetz)
